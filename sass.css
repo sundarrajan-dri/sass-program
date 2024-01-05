@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+}
+
+.header .sass {
+  width: 30%;
+  padding: 2%;
+}
+
+.header .sass h1 {
+  color: blue;
+}
+
+.header .sass p {
+  font-size: xx-large;
+  background-color: yellow;
+  color: blue;
+}
+
+/*# sourceMappingURL=sass.css.map */
